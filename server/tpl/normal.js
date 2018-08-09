@@ -24,7 +24,7 @@ module.exports = `
                 <p>This is GAOFENG</p>
             </div>
             <div class='col-md-4'>
-                <p>测试静态HTML</p>
+                <p>测试静态HTML页面</p>
             </div>
         </div>
     </div>
